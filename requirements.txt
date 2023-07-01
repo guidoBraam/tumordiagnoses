@@ -112,7 +112,7 @@ partd==1.4.0
 pathy==0.6.1
 pickleshare==0.7.5
 Pillow==8.4.0
-platformdirs==3.8.0
+platformdirs
 plotly==5.8.2
 ply==3.11
 preshed==3.0.6
